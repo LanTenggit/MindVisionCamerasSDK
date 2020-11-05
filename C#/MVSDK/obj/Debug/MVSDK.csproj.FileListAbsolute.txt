@@ -1,0 +1,6 @@
+D:\桌面\MindVision\C#\MVSDK\obj\Debug\MVSDK.csprojResolveAssemblyReference.cache
+D:\桌面\MindVision\C#\MVSDK\obj\Debug\MVSDK.csproj.CoreCompileInputs.cache
+D:\桌面\MindVision\C#\MVSDK\obj\Debug\MVSDK.dll
+D:\桌面\MindVision\C#\MVSDK\obj\Debug\MVSDK.pdb
+D:\桌面\MindVision\C#\MVSDK\MVSDK.dll
+D:\桌面\MindVision\C#\MVSDK\MVSDK.pdb

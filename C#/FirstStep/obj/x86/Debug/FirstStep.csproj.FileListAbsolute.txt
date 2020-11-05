@@ -1,0 +1,11 @@
+D:\桌面\MindVision\C#\FirstStep\bin\Debug\FirstStep.exe.config
+D:\桌面\MindVision\C#\FirstStep\bin\Debug\FirstStep.exe
+D:\桌面\MindVision\C#\FirstStep\bin\Debug\FirstStep.pdb
+D:\桌面\MindVision\C#\FirstStep\bin\Debug\MVSDK.dll
+D:\桌面\MindVision\C#\FirstStep\bin\Debug\MVSDK.pdb
+D:\桌面\MindVision\C#\FirstStep\obj\x86\Debug\FirstStep.Form1.resources
+D:\桌面\MindVision\C#\FirstStep\obj\x86\Debug\FirstStep.Properties.Resources.resources
+D:\桌面\MindVision\C#\FirstStep\obj\x86\Debug\FirstStep.csproj.GenerateResource.Cache
+D:\桌面\MindVision\C#\FirstStep\obj\x86\Debug\FirstStep.csproj.CoreCompileInputs.cache
+D:\桌面\MindVision\C#\FirstStep\obj\x86\Debug\FirstStep.exe
+D:\桌面\MindVision\C#\FirstStep\obj\x86\Debug\FirstStep.pdb

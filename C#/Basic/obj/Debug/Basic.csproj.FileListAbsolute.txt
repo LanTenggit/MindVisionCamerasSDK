@@ -1,0 +1,12 @@
+D:\桌面\MindVision\C#\Basic\bin\Debug\Basic.exe.config
+D:\桌面\MindVision\C#\Basic\bin\Debug\Basic.exe
+D:\桌面\MindVision\C#\Basic\bin\Debug\Basic.pdb
+D:\桌面\MindVision\C#\Basic\bin\Debug\MVSDK.dll
+D:\桌面\MindVision\C#\Basic\bin\Debug\MVSDK.pdb
+D:\桌面\MindVision\C#\Basic\obj\Debug\Basic.BasicForm.resources
+D:\桌面\MindVision\C#\Basic\obj\Debug\Basic.Properties.Resources.resources
+D:\桌面\MindVision\C#\Basic\obj\Debug\Snapshot.SnapshotDlg.resources
+D:\桌面\MindVision\C#\Basic\obj\Debug\Basic.csproj.GenerateResource.Cache
+D:\桌面\MindVision\C#\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+D:\桌面\MindVision\C#\Basic\obj\Debug\Basic.exe
+D:\桌面\MindVision\C#\Basic\obj\Debug\Basic.pdb

@@ -1,0 +1,7 @@
+D:\桌面\MindVision\C#\Advanced\obj\Debug\Advanced.csprojResolveAssemblyReference.cache
+D:\桌面\MindVision\C#\Advanced\obj\Debug\Basic.Advanced.resources
+D:\桌面\MindVision\C#\Advanced\obj\Debug\Basic.Properties.Resources.resources
+D:\桌面\MindVision\C#\Advanced\obj\Debug\Basic.Settings.resources
+D:\桌面\MindVision\C#\Advanced\obj\Debug\Snapshot.SnapshotDlg.resources
+D:\桌面\MindVision\C#\Advanced\obj\Debug\Advanced.csproj.GenerateResource.Cache
+D:\桌面\MindVision\C#\Advanced\obj\Debug\Advanced.csproj.CoreCompileInputs.cache

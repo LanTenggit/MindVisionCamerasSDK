@@ -1,0 +1,13 @@
+D:\桌面\MindVision\C#\TwoCameras\bin\Debug\TwoCameras.exe.config
+D:\桌面\MindVision\C#\TwoCameras\bin\Debug\TwoCameras.exe
+D:\桌面\MindVision\C#\TwoCameras\bin\Debug\TwoCameras.pdb
+D:\桌面\MindVision\C#\TwoCameras\bin\Debug\MVSDK.dll
+D:\桌面\MindVision\C#\TwoCameras\bin\Debug\MVSDK.pdb
+D:\桌面\MindVision\C#\TwoCameras\obj\Debug\TwoCameras.csprojResolveAssemblyReference.cache
+D:\桌面\MindVision\C#\TwoCameras\obj\Debug\Basic.BasicForm.resources
+D:\桌面\MindVision\C#\TwoCameras\obj\Debug\TwoCameras.Properties.Resources.resources
+D:\桌面\MindVision\C#\TwoCameras\obj\Debug\Snapshot.SnapshotDlg.resources
+D:\桌面\MindVision\C#\TwoCameras\obj\Debug\TwoCameras.csproj.GenerateResource.Cache
+D:\桌面\MindVision\C#\TwoCameras\obj\Debug\TwoCameras.csproj.CoreCompileInputs.cache
+D:\桌面\MindVision\C#\TwoCameras\obj\Debug\TwoCameras.exe
+D:\桌面\MindVision\C#\TwoCameras\obj\Debug\TwoCameras.pdb

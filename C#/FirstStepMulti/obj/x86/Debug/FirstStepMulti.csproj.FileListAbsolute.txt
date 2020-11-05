@@ -1,0 +1,12 @@
+D:\桌面\MindVision\C#\FirstStepMulti\bin\Debug\FirstStepMulti.exe.config
+D:\桌面\MindVision\C#\FirstStepMulti\bin\Debug\FirstStepMulti.exe
+D:\桌面\MindVision\C#\FirstStepMulti\bin\Debug\FirstStepMulti.pdb
+D:\桌面\MindVision\C#\FirstStepMulti\bin\Debug\MVSDK.dll
+D:\桌面\MindVision\C#\FirstStepMulti\bin\Debug\MVSDK.pdb
+D:\桌面\MindVision\C#\FirstStepMulti\obj\x86\Debug\FirstStepMulti.Form1.resources
+D:\桌面\MindVision\C#\FirstStepMulti\obj\x86\Debug\FirstStepMulti.Properties.Resources.resources
+D:\桌面\MindVision\C#\FirstStepMulti\obj\x86\Debug\FirstStepMulti.csproj.GenerateResource.Cache
+D:\桌面\MindVision\C#\FirstStepMulti\obj\x86\Debug\FirstStepMulti.csproj.CoreCompileInputs.cache
+D:\桌面\MindVision\C#\FirstStepMulti\obj\x86\Debug\FirstStepMulti.exe
+D:\桌面\MindVision\C#\FirstStepMulti\obj\x86\Debug\FirstStepMulti.pdb
+D:\桌面\MindVision\C#\FirstStepMulti\obj\x86\Debug\FirstStepMulti.csprojResolveAssemblyReference.cache
